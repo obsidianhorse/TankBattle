@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1ae6471cfdf254dbbd1822bd68bb1f, type: 3}
+  m_Name: M777
+  m_EditorClassIdentifier: 
+  _bulletPrefab: {fileID: 589375761209946547, guid: 2531e1b2bd20458458bb9815b4200dae, type: 3}
+  accuracyPercantage: 25
+  _damage: 5
+  _shootForce: 1500
+  _explosionRadius: 1
+  _lowReloadTime: 0.05
+  _bigReloadTime: 0
+  countOfAmmo: 300
