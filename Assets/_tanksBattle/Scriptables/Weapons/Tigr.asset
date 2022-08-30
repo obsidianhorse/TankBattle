@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Tigr
   m_EditorClassIdentifier: 
   _bulletPrefab: {fileID: 589375761209946547, guid: 2531e1b2bd20458458bb9815b4200dae, type: 3}
-  accuracyPercantage: 25
-  _damage: 5
+  accuracyPercantage: 100
+  _damage: 100
   _shootForce: 1500
-  _explosionRadius: 1
-  _lowReloadTime: 0.05
+  _explosionRadius: 5
+  _lowReloadTime: 0.3
   _bigReloadTime: 0
   countOfAmmo: 300

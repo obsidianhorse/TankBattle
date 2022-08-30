@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Damagable : MonoBehaviour
 {
-    private float _health = 100;
+    private float _health = 30;
 
     public event Action<float> Damaged;
     public event Action Dead;
